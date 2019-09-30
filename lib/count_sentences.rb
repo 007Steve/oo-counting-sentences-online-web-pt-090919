@@ -4,6 +4,8 @@ class String
 
   def sentence?
     if 
+      puts "Hi , my name is sophie."
+      
   end
 
   def question?
